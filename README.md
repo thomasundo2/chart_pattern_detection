@@ -62,3 +62,9 @@ First, make sure that get-yahoo-quotes.py is built. To run the program, simply
 type in the stock symbol in line 16 of CandlestickGrapher.py and execute it. If everything
 runs smoothly, a .csv file should be created, and an .html file should also appear as well
 with the graph and triangle trend.
+
+**Examples** 
+Some examples (JNJ, SBUX, NVDA) from 09/04/2018 to 02/21/2019. 
+![JNJ-20180904-20190221](/examples/JNJ-20180904-20190221.png)
+![SBUX-20180904-20190221](/examples/SBUX-20180904-20190221.png)
+![NVDA-20180904-20190221](/examples/NVDA-20180904-20190221.png)
